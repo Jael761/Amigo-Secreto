@@ -1,1 +1,1 @@
-
+Este proyecto esta diseñado para cuando tenemos que hacer un sorteo, en nuestro caso para el amigo secreto coo los que se ocpan para Navidad, pero tambien puede servir para otro tipo de sorteo, como en casa de quien se hace la fiesta, o quien pone las chelas, etc. Existen multiples posibilidades.
